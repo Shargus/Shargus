@@ -3,7 +3,7 @@
 - 💚 Fighting climate change is my greatest human and professional ambition
 - 🎵 I have many hobbies, such as 🎸 playing fingerstyle acoustic guitar, 🕺 dancing lindy hop, 🧑‍🎤 choir singing (T6 tenor in the official choir of Politecnico di Torino), 🧑‍🍳 cooking, 📷 analog photography
 - 🌱 I’m currently reinforcing my knowledge of reinforcement learning
-- 📫 How to reach me: Linkedin (https://www.linkedin.com/in/tommaso-monopoli/)
+- 📫 How to reach me: Linkedin (https://www.linkedin.com/in/tommaso-monopoli/), email (tommy97monopoli@live.it)
 
 <!---
 Shargus/Shargus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
